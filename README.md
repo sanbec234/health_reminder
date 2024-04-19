@@ -1,16 +1,12 @@
 # health_app
 
-A new Flutter project.
+This flutter project is for people to keep track of their personal health goals like drinking water and walking. 
+
+It also keeps track of the medications and gives notifications at the given time to remind you.
 
 ## Getting Started
+After cloning
+1. flutter pub get
+2. flutter run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You will be ready to go.
